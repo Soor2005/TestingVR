@@ -1,0 +1,2 @@
+function e(t,a){return{description:"If you're a Branding Agency specialised in designing minimal logos, then this Framer template is for you. Quickly launch your agency's website with this FREE premium-looking template that matches your design style.",favicon:"https://framerusercontent.com/assets/Vc1G3SI4LjANJdl2tIYXqqo93Os.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/WTYYwVOaUcjrte4AE2Z5iZKEj8.jpg",title:"LogoFolio \u2013\xA0Framer template"}}export{e as a};
+//# sourceMappingURL=chunk-NZKDQMYI.mjs.map
